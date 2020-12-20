@@ -1,0 +1,23 @@
+.App {
+  font-family: Papyrus;
+  text-align: center;
+}
+
+input {
+  padding: 1rem;
+  width: 60%;
+}
+
+h2 {
+  color: rgb(183, 44, 196);
+  font-weight: 700;
+}
+
+body {
+  background-color: rgb(99, 209, 191);
+}
+
+h1 {
+  color: rgb(106, 11, 184);
+  font-weight: 700;
+}
